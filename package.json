@@ -1,0 +1,19 @@
+{
+  "name": "analog-clock",
+  "version": "1.0.0",
+  "description": "analog clock",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIDFROMHARYANA/ANALOG-CLOCK.git"
+  },
+  "author": "SID",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SIDFROMHARYANA/ANALOG-CLOCK/issues"
+  },
+  "homepage": "https://github.com/SIDFROMHARYANA/ANALOG-CLOCK#readme"
+}
